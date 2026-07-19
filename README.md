@@ -35,26 +35,20 @@
 #### 🔌 硬件设计
 <img src="https://img.shields.io/badge/Altium_Designer-0066CC?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/PCB_Design-FF6B35?style=for-the-badge&logo=adafruit&logoColor=white" />
+<img src="https://img.shields.io/badge/立创EDA_(EasyEDA)-00A85A?style=for-the-badge&logo=easyeda&logoColor=white" />
 
 #### 🧠 嵌入式开发
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeRTOS-006B3F?style=for-the-badge&logo=freertos&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
 
 #### 🛠️ 开发工具
-<img src="https://img.shields.io/badge/STM32CubeIDE-0B2E5A?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/Keil-2C2C2C?style=for-the-badge&logo=armkeil&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-F5820A?style=for-the-badge&logo=platformio&logoColor=white" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenOCD-006B3F?style=for-the-badge&logo=openocd&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-#### 📡 通信协议
-<img src="https://img.shields.io/badge/CAN_Bus-006B3F?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/SPI-FF6600?style=for-the-badge&logo=spi&logoColor=white" />
-<img src="https://img.shields.io/badge/I2C-4B0082?style=for-the-badge&logo=i2c&logoColor=white" />
-<img src="https://img.shields.io/badge/UART-2E8B57?style=for-the-badge&logo=uart&logoColor=white" />
 
 </div>
 
